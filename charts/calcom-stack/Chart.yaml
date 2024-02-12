@@ -9,5 +9,5 @@ dependencies:
     repository: https://charts.bitnami.com/bitnami
     version: 14.0.1
   - name: calcom
-    repository: https://pyrrha.github.io/calcom-helm
+    repository: "file://../calcom"
     version: 0.3.1
